@@ -1,0 +1,4 @@
+Wrapper = {
+    resname = GetCurrentResourceName(),
+    ServerCallbacks = {}
+}
