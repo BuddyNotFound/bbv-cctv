@@ -1,4 +1,5 @@
-Discord : https://discord.com/invite/ywBqCcw3Rz
+Discord : https://discord.com/ywBqCcw3Rz
+
 ![CCTV_MAIN](https://github.com/BuddyNotFound/bbv-cctv/assets/74051918/aa3ee704-2371-4821-b9b9-f3abc14d12e0)
 
 CCTV Script that allows police officers or any job set from the config to access a tablet where you can check the cameras. You can add as many cameras as you want and place them anywhere. You can use an item or a command to access the system. The script works with both QB and ESX frameworks or can be run as standalone.
