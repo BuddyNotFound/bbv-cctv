@@ -23,9 +23,9 @@ Config.Settings = {
 
 Config.CCTV = { 
 	{
-		name = 'Caesars Parking',
+	name = 'Caesars Parking',
         pos = vector4(105.25, -1089.02, 33.86, 295.74),
-        url = 'https://cdn.discordapp.com/attachments/870375951257731152/1203291466495959081/image.png?ex=65d08f81&is=65be1a81&hm=cca0cad33ca1fd75ad8013f0bedfd910dca9c231d21965a72a261ebc048620cd&',
+        url = 'https://cdn.discordapp.com/attachments/870375951257731152/1203291466495959081/image.png?ex=65d08f81&is=65be1a81&hm=cca0cad33ca1fd75ad8013f0bedfd910dca9c231d21965a72a261ebc048620cd&', -- image
         enabled = true,
 	},
     {
